@@ -1,0 +1,8 @@
+{
+  "name": "Catálogo Petite Jolie Sumaúma",
+  "description": "Catálogo de produtos inspirados na marca Petite Jolie, com design focado em cor e alegria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
